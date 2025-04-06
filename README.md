@@ -68,3 +68,4 @@ Responsive view on mobile: <br>
 - Node.js & npm
 - Firebase Project: Set up a Firebase project and configure Firestore and Authentication. Obtain your Firebase configuration keys.
 - Google API Keys: Obtain API keys for Google Generative AI and Google Places API.
+# ai-trip-plannerr
